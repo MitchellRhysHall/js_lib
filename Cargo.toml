@@ -1,9 +1,21 @@
 [package]
 name = "js_lib"
-version = "0.1.0"
+description = "Simple 'javascript-like' functions"
+version = "0.0.1"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Mitchell Rhys Hall"]
+repository = "https://github.com/MitchellRhysHall/js_lib"
+license = "MIT"
+categories = [
+    "asyncronous"
+]
+keywords = [
+    "javascript",
+    "functions",
+    "fetch"
+]
+readme = "README.md"
+maintenance = { status = "experimental" }
 
 [dependencies]
 reqwest = "0"

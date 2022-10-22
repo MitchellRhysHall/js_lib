@@ -11,7 +11,7 @@
 //! ```rust
 //! use js_lib::fetch;
 //! # async fn example() -> Result<(), js_lib::Error> {
-//! let word = fetch("https://www.google.com/").await;
+//! let result = fetch("https://www.google.com/").await;
 //! # Ok(())
 //! # }
 //! ```
@@ -39,7 +39,7 @@ pub enum Error {
 /// ```rust
 /// use js_lib::fetch;
 /// # async fn example() -> Result<(), js_lib::Error> {
-/// let word = fetch("https://www.google.com/").await;
+/// let result = fetch("https://www.google.com/").await;
 /// # Ok(())
 /// # }
 /// ```
