@@ -6,8 +6,5 @@ The `js_lib` crate provides simple 'javascript-like' functions.
 
 ```rust
 use js_lib::fetch;
-# async fn example() -> Result<(), js_lib::Error> {
 let result = fetch("https://www.google.com/").await;
-# Ok(())
-# }
 ```
