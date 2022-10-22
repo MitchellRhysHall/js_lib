@@ -1,5 +1,5 @@
 [package]
-name = "js_lib"
+name = "js-lib"
 description = "Simple 'javascript-like' functions"
 version = "0.0.1"
 edition = "2021"
