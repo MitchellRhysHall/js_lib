@@ -1,7 +1,7 @@
 [package]
 name = "js-lib"
 description = "Simple 'javascript-like' functions"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["Mitchell Rhys Hall"]
 repository = "https://github.com/MitchellRhysHall/js_lib"
