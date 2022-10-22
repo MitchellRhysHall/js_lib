@@ -7,7 +7,7 @@ authors = ["Mitchell Rhys Hall"]
 repository = "https://github.com/MitchellRhysHall/js_lib"
 license = "MIT"
 categories = [
-    "asyncronous"
+    "asynchronous"
 ]
 keywords = [
     "javascript",
